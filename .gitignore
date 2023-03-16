@@ -1,0 +1,11 @@
+vendor/
+web/core/
+sites/**/files/**/*
+web/libraries/**/*
+web/sites/**/libraries/**/*
+web/profiles/**/libraries/**/*
+**/js_test_files/**/*
+**/node_modules/**/*
+
+.DS_Store
+**/.DS_Store
